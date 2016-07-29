@@ -1,4 +1,3 @@
-layout_spectrum: 0.6672737204935402
 typography_spectrum: 0.07755464897491038
 color:
   brandStrength: 0.32293047406710684
@@ -6,9 +5,12 @@ color:
   saturation: 0.7729189547244459
   rhythmicContrast: 0.8068669042550027
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.6672737204935402
 name: The Effortless Sale
+title: Make Selling Easier
+description: 'Because when it''s easy to buy, it''s easy to sell'
